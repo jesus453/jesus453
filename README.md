@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I am jesús 
+Me llamo Jesús Alberto González Martínez y actualmente soy estudiante de la UACJ. 
+Estoy interesado en el desarrollo web. 
+
+
 <!--
 **jesus453/jesus453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I a
